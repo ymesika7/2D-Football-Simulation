@@ -1,6 +1,4 @@
-This program receive a soccer game video and convert him into smart 2D view.
-
-
+This project using computer vision to analyse (home made) sports videos.
 
 Requirements
 
