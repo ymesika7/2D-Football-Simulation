@@ -1,4 +1,4 @@
-This project using computer vision to analyse (home made) sports videos.
+This application using computer vision to simulates (home made) football games on a smart 2D screen and enables the quantitative analysis of various tactics.
 
 Requirements
 
