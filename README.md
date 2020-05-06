@@ -1,4 +1,6 @@
-This application using computer vision to simulates (home made) football games on a smart 2D screen and enables the quantitative analysis of various tactics.
+This application using computer vision to simulates football games on a smart 2D screen and enables the quantitative analysis of various tactics.
+
+https://youtu.be/ifuaPhM8GX8
 
 Requirements
 
