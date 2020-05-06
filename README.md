@@ -3,7 +3,7 @@ This program receives a video of soccer game and convert him to 2D view.
 
 Features
 
-        Using cv2.multiTracker() to track and record the game data from the input video.
+  Using cv2.multiTracker() to track and record the game data from the input video.
 
 
 Requirements
@@ -29,5 +29,5 @@ Output
 
 Authors
 
-        Yonatan M,ymesika7@gmail.com
+        Yonatan M, ymesika7@gmail.com
 
