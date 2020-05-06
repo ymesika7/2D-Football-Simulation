@@ -1,10 +1,4 @@
-This program receives a video of soccer game and convert him to 2D view.
-
-
-
-Features : 
-
-  Using cv2.multiTracker() to track and record the game data from the input video.
+This program receive a soccer game video and convert him into smart 2D view.
 
 
 
