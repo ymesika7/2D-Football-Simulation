@@ -2,6 +2,9 @@ This application using computer vision to simulates football games on a smart 2D
 
 https://youtu.be/ifuaPhM8GX8
 
+Download demo input:
+https://drive.google.com/file/d/1WSRoOrCy79XdFQtzjlvNSVCObEl1a-p5/view?usp=sharing
+
 Requirements
 
         All requirements are specified in the file "requirements.txt"
