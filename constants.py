@@ -17,8 +17,8 @@ class SHIFTING(object):
 
 
 # How to use the app, starting instruction (xGAnalytic.py)
-HOW_TO = "[IMPORTANT] HowTo:" + \
-         "Note: To to approve your object selection please press twice on the space bar.\n" + \
+HOW_TO = "\n\n[IMPORTANT] HowTo:" + \
+         "\nNote: To to approve your object selection please press twice on the space bar.\n" + \
          "       \n1. Mark the goalkeeper of the first team\n" + \
          "       2. Mark the field players of the first team\n" + \
          "       3. Repeat the last two steps for the second team\n" + \
