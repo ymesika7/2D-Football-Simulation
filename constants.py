@@ -24,5 +24,5 @@ HOW_TO = "\n\n[IMPORTANT] HowTo:" + \
          "       2. Mark the field players of the first team\n" + \
          "       3. Repeat the last two steps for the second team\n" + \
          "       4. Mark the ball\n" + \
-         "       5. Press SPACE bar and then 'q' to quit selecting boxes and start tracking\n" + \
+         "       5. Press SPACE bar and then 'q' to quit selecting boxes and start tracking\n"
         
