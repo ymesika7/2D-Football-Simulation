@@ -76,7 +76,7 @@ class DetectThePlayers(object):
                 self.logger.error("\n--Illegal input. pleas try again.")
                 sys.exit(1)
 
-            self.info('Selected bounding boxes {}'.format(bboxes))
+            self.logger.info('Selected bounding boxes {}'.format(bboxes))
 
             # Create MultiTracker object
             multiTracker = cv2.MultiTracker_create()
