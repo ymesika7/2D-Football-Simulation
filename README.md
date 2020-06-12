@@ -28,7 +28,7 @@ All requirements are specified in the file "requirements.txt"
                 Video file after the 2D conversion.
 
 
-# Author
+## Author
 
 Yonatan M, ymesika7@gmail.com
 
